@@ -11,7 +11,11 @@ pinned: false
 # GPTWorld - Prompt Golf
 
 <p align="center">
-<a href="https://colab.research.google.com/github/srush/GPTWorld-Challenge/blob/main/GPT4_game.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab\"/></a>
+Original:
+<a href="https://colab.research.google.com/github/srush/GPTWorld-Challenge/blob/main/GPT4_game.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab (old)\"/></a>
+|
+Ours:
+<a href="https://colab.research.google.com/github/coli-saar/GPTWorld/blob/main/modified_promptgolf.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab\"/></a>
 </p>
 
 GPTWorld is an educational environment to learn about Prompting.
